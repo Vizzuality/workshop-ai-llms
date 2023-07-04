@@ -8,9 +8,9 @@ This repository contains a collection of Jupyter notebooks that perform various 
 
 ### Setting Up Your Python Environment
 
-1. Ensure that you have Python 3.11 installed on your system. You can download the latest version of Python from the [official Python website](https://www.python.org/downloads/).
+1. Ensure that you have Python 3.11 installed on your system.
 
-2. If not already done, it's recommended to create a virtual environment. Use the following commands:
+2. If not already done, creating a virtual environment is recommended. Use the following commands:
 
     ```bash
     python3 -m venv env
@@ -19,7 +19,7 @@ This repository contains a collection of Jupyter notebooks that perform various 
 
 ### Installing Required Libraries
 
-Once your Python environment is set up and activated, you can install the necessary libraries using the `requirements.txt` file provided in this repository. Run the following command:
+Once your Python environment is set up and activated, you can install the necessary libraries using this repository's `requirements.txt` file. Run the following command:
 
 ```bash
 pip install -r requirements.txt
@@ -44,7 +44,7 @@ Please replace `your_openai_api_key_here` and `your_serpapi_api_key_here` with y
 
 ## Usage
 
-After completing the setup, you can start using the Jupyter notebooks provided in this repository.
+After you complete the setup, you can use the Jupyter notebooks provided in this repository.
 
 ## Contribution
 
