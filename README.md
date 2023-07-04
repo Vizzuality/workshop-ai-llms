@@ -1,6 +1,4 @@
-### AI Workshop
-
-# Project Title
+# AI Using LLMs and Langchain Workshop
 
 ## Overview
 
