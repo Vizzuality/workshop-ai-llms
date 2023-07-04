@@ -1,4 +1,4 @@
-# AI Using LLMs and Langchain Workshop
+# AI Workshop: LLMs and Langchain 
 
 ## Overview
 
