@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a collection of Jupyter notebooks that perform various tasks. To make use of these notebooks, you will need to set up a Python 3.11 environment and install the required libraries. 
+This repository contains a collection of Jupyter notebooks with examples of how to work with Langchain, LLMs, vector databases, and APIs. You must set up a Python 3.11 environment and install the required libraries to use these notebooks. 
 
 ## Getting Started
 
