@@ -5,6 +5,7 @@ storage
 docs
 vector_indexes
 proposal_index.pdf
+langchain_docs_index
 static/css/styles.css
 zzzzz chatbot interface.ipynb
 openai.logs
