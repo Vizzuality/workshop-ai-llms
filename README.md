@@ -46,6 +46,24 @@ Please replace `your_openai_api_key_here` and `your_serpapi_api_key_here` with y
 
 After you complete the setup, you can use the Jupyter notebooks provided in this repository.
 
+## Usage with Docker
+
+If you prefer to use Docker, you can use the provided `Dockerfile` to build a Docker image. Run the following command to build the image:
+
+```bash
+docker compose build
+```
+
+And run the following command to start the container:
+
+```bash
+docker compose up
+```
+
+You can then access the Jupyter notebooks at `http://localhost:8888`. Include the token provided in the terminal output to access the notebooks.
+
+NOTE: You will need to set up your environment variables in the `docker-compose.yml` file.
+
 ## Contribution
 
 Feel free to submit a pull request if you want to make improvements or propose changes to the codebase. 
