@@ -8,3 +8,5 @@ services:
       - "8888:8888"
     env_file:
       - .env
+    volumes:
+      - ./:/workshop
